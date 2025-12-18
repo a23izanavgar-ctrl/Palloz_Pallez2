@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quiero Generar un conflicto :C
 Quiero Generar un conflicto :C
 Quiero Generar un conflicto :C
@@ -8,3 +9,15 @@ Quiero Generar un conflicto :C
 Quiero Generar un conflicto :C
 Quiero Generar un conflicto :C
 Quiero Generar un conflicto :C
+=======
+Copon
+Copon
+Copon
+Copon
+Copon
+Copon
+Copon
+Copon
+Copon
+Copon
+>>>>>>> 3cfb5af9d4f5a45cd0b55c47337c7dbf4934eeca
